@@ -13,7 +13,7 @@ This project is a practice for CSS grid and flexbox
 
 ## Screenshots
 
-![Animation Screenshot](https://templars.guru/app/github/css_grid_company/screenshot_1.PNG)
+![Animation Screenshot](https://github.com/antoineratat/github_docs/blob/main/css_grid_company/screenshot_1.PNG?raw=true)
 
 ## Technologies
 
